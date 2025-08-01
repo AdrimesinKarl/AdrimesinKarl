@@ -1,8 +1,8 @@
 # 👋 Hello, I'm John Carlo
 
-  Computer Science Student 
-  Currently learning and building hands-on projects
-  Focused on backend development and real-world system design  
+  Computer Science Student<br>
+  Currently learning and building hands-on projects<br>
+  Focused on backend development and real-world system design<br>
   Based in the Philippines
 
 ---
@@ -18,7 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 </p>
 
-### 🧰 Tools I Use
+### Tools I Use
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
