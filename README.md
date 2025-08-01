@@ -3,7 +3,6 @@
   Computer Science Student<br>
   Currently learning and building hands-on projects<br>
   Focused on backend development and real-world system design<br>
-  Based in the Philippines
 
 ---
 
